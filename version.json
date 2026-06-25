@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": 8,
+  "build": 9,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fix: the bottom nav bar no longer overlaps the last items / buttons on any screen."
+  "notes": "Orders now save customers by phone number, plus a country-code order form."
 }
