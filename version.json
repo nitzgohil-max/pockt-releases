@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": 9,
+  "build": 10,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Orders now save customers by phone number, plus a country-code order form."
+  "notes": "Add category photos and per-product Instagram/web links."
 }
