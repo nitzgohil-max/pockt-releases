@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": 7,
+  "build": 8,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "In-app update test — downloads with a progress bar and installs itself."
+  "notes": "Fix: the bottom nav bar no longer overlaps the last items / buttons on any screen."
 }
