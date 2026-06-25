@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": 6,
+  "build": 7,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Self-installing updates — downloads inside the app, no browser."
+  "notes": "In-app update test — downloads with a progress bar and installs itself."
 }
