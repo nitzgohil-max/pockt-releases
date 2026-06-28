@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": 12,
+  "build": 13,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fresh app-wide look (indigo + Plus Jakarta Sans) matching your storefront."
+  "notes": "New: Website look editor — customise your storefront colours, font, logo, text size, corners, width, and sections, with live preview. Plus smarter product filters and a low-stock view."
 }
