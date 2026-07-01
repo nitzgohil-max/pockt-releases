@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "build": 16,
+  "version": "0.1.4",
+  "build": 17,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Purchase-by-Excel now sets up your catalog too. Download the blank template, add items (name, category, catalog, packing, sell price) with quantity, unit cost, purchase date and invoice no, then upload: new items are created, existing ones updated, and one unpaid purchase is recorded (settle via Payment Out) with a printable report. Run it from the phone."
+  "notes": "Purchase-by-Excel safety update: the template's price columns are now clearly labelled 'Unit Cost (you pay supplier)' and 'Selling Price (you charge)', and if a row's cost is higher than its selling price (a sign the columns were swapped) you get a warning before recording. Older sheets still work."
 }
