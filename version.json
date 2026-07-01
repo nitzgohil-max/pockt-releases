@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "build": 13,
+  "version": "0.1.1",
+  "build": 14,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "New: Website look editor — customise your storefront colours, font, logo, text size, corners, width, and sections, with live preview. Plus smarter product filters and a low-stock view."
+  "notes": "New: record purchases straight from Excel. Pick a supplier, download a pre-filled sheet, enter quantities and costs (cartons/packs supported), then upload to book stock, cost, and what you owe in one step. Also fixes purchase costs when recording on a paired desktop."
 }
