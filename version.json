@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "build": 14,
+  "version": "0.1.2",
+  "build": 15,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "New: record purchases straight from Excel. Pick a supplier, download a pre-filled sheet, enter quantities and costs (cartons/packs supported), then upload to book stock, cost, and what you owe in one step. Also fixes purchase costs when recording on a paired desktop."
+  "notes": "Record purchases from Excel — simpler. Download a blank template, fill your items (name/SKU, quantity, unit cost, purchase date, invoice no), then upload to record one purchase for any number of items. Recorded unpaid — settle later via Payment Out — with a printable purchase report, and it shows in the supplier's statement."
 }
