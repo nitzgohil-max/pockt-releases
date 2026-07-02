@@ -1,6 +1,6 @@
 {
-  "version": "0.1.12",
-  "build": 26,
+  "version": "0.1.13",
+  "build": 27,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fill forms in one tap: Stock Audit and Transfer gain an 'Add a whole category/catalog' button — tick one or more groups (with live item counts) and every in-stock item pours into the list; remove odd ones with X. Audit stays safe: items you don't touch never change stock. In Inventory, long-press a category or catalog chip to select the whole group for sharing."
+  "notes": "The paired desktop now works like WhatsApp Web: it's a live window into your phone. Phone unreachable → the desktop shows 'Phone not connected' and blocks entry (waking by itself when the phone returns), and the laptop keeps no business data on disk — everything lives in memory only while connected. Standalone desktops are unaffected."
 }
