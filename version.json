@@ -1,6 +1,6 @@
 {
-  "version": "0.1.15",
-  "build": 29,
+  "version": "0.1.17",
+  "build": 31,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "New (optional): Local Wi-Fi sync. When your phone and computer are on the same Wi-Fi, they can sync directly — faster and it barely uses the internet, with automatic fallback to the cloud when apart. Turn it on under the connect-a-computer screen; it's locked to your pairing so nobody else on the Wi-Fi can read anything. Off by default — nothing changes unless you enable it."
+  "notes": "New (optional): keep syncing after you close the app. Sync already survives a locked screen; turn on 'Keep syncing after closing the app' (on the connect-a-computer screen) to keep the desktop synced even after you swipe Pockt away from recent apps. Off by default — nothing changes unless you enable it. Some phone brands may also need you to allow Pockt to auto-start / run in the background."
 }
