@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "build": 21,
+  "version": "0.1.8",
+  "build": 22,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Excel purchases now ask where the goods go. After picking the supplier, choose the location (shop or warehouse) — stock and cost tracking land there directly, no manual transfer needed. The confirmation shows the destination before you record."
+  "notes": "Cleaner updates and version info: checking for updates now always sees the true latest release (no more stale offers right after a new version ships), and Settings shows your exact version and build correctly. Every update includes everything from the versions before it — skipping builds never loses features."
 }
