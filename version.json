@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
-  "build": 20,
+  "version": "0.1.7",
+  "build": 21,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Purchase-by-Excel refinements: new Unit column fills each item's unit of measure (custom units welcome), Packing Type + Packing become the product's contents notes, and dates typed in Excel now parse correctly. Purchases print on demand from the transaction screen (with paid/unpaid status). Smoother updates too: downloads no longer get stuck — you can cancel or retry inside the app."
+  "notes": "Excel purchases now ask where the goods go. After picking the supplier, choose the location (shop or warehouse) — stock and cost tracking land there directly, no manual transfer needed. The confirmation shows the destination before you record."
 }
