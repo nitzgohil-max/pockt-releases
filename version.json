@@ -1,6 +1,6 @@
 {
-  "version": "0.1.4",
-  "build": 17,
+  "version": "0.1.5",
+  "build": 18,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Purchase-by-Excel safety update: the template's price columns are now clearly labelled 'Unit Cost (you pay supplier)' and 'Selling Price (you charge)', and if a row's cost is higher than its selling price (a sign the columns were swapped) you get a warning before recording. Older sheets still work."
+  "notes": "Purchase-by-Excel refinements: new Unit column fills each item's unit of measure (custom units welcome — PCS, PKTS, LOOSE…); Packing Type + Packing now become the product's notes describing its contents. Dates typed in Excel now parse correctly. Printing is on demand — open the purchase in Transactions and tap print (shows paid/unpaid status), instead of popping up after upload."
 }
