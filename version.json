@@ -1,6 +1,6 @@
 {
-  "version": "0.1.11",
-  "build": 25,
+  "version": "0.1.12",
+  "build": 26,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Delivery-ready orders: customers can add a delivery address at checkout (optional), and each order now has a Delivery panel — add or fix the address, assign a delivery partner with contact, share the full order details to WhatsApp, and print an invoice, a no-price delivery note (till-roll or sticker layout), or both. Plus printable sales, expenses and quotations from earlier builds."
+  "notes": "Fill forms in one tap: Stock Audit and Transfer gain an 'Add a whole category/catalog' button — tick one or more groups (with live item counts) and every in-stock item pours into the list; remove odd ones with X. Audit stays safe: items you don't touch never change stock. In Inventory, long-press a category or catalog chip to select the whole group for sharing."
 }
