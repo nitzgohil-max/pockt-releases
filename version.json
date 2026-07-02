@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
-  "build": 18,
+  "version": "0.1.6",
+  "build": 20,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Purchase-by-Excel refinements: new Unit column fills each item's unit of measure (custom units welcome — PCS, PKTS, LOOSE…); Packing Type + Packing now become the product's notes describing its contents. Dates typed in Excel now parse correctly. Printing is on demand — open the purchase in Transactions and tap print (shows paid/unpaid status), instead of popping up after upload."
+  "notes": "Purchase-by-Excel refinements: new Unit column fills each item's unit of measure (custom units welcome), Packing Type + Packing become the product's contents notes, and dates typed in Excel now parse correctly. Purchases print on demand from the transaction screen (with paid/unpaid status). Smoother updates too: downloads no longer get stuck — you can cancel or retry inside the app."
 }
