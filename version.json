@@ -1,6 +1,6 @@
 {
-  "version": "0.1.13",
-  "build": 27,
+  "version": "0.1.14",
+  "build": 28,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "The paired desktop now works like WhatsApp Web: it's a live window into your phone. Phone unreachable → the desktop shows 'Phone not connected' and blocks entry (waking by itself when the phone returns), and the laptop keeps no business data on disk — everything lives in memory only while connected. Standalone desktops are unaffected."
+  "notes": "New (paired desktop users): your phone can now keep the desktop in sync even while the screen is locked. After you pair, allow the notification and battery permission when asked — you'll see a small 'Pockt is connected' notice while a desktop is linked. To save battery, the phone checks gently when idle and speeds up while your desktop is active. Not paired to a desktop? Nothing changes for you."
 }
