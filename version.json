@@ -1,6 +1,6 @@
 {
-  "version": "0.1.14",
-  "build": 28,
+  "version": "0.1.15",
+  "build": 29,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "New (paired desktop users): your phone can now keep the desktop in sync even while the screen is locked. After you pair, allow the notification and battery permission when asked — you'll see a small 'Pockt is connected' notice while a desktop is linked. To save battery, the phone checks gently when idle and speeds up while your desktop is active. Not paired to a desktop? Nothing changes for you."
+  "notes": "New (optional): Local Wi-Fi sync. When your phone and computer are on the same Wi-Fi, they can sync directly — faster and it barely uses the internet, with automatic fallback to the cloud when apart. Turn it on under the connect-a-computer screen; it's locked to your pairing so nobody else on the Wi-Fi can read anything. Off by default — nothing changes unless you enable it."
 }
