@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
-  "build": 22,
+  "version": "0.1.11",
+  "build": 25,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Cleaner updates and version info: checking for updates now always sees the true latest release (no more stale offers right after a new version ships), and Settings shows your exact version and build correctly. Every update includes everything from the versions before it — skipping builds never loses features."
+  "notes": "Delivery-ready orders: customers can add a delivery address at checkout (optional), and each order now has a Delivery panel — add or fix the address, assign a delivery partner with contact, share the full order details to WhatsApp, and print an invoice, a no-price delivery note (till-roll or sticker layout), or both. Plus printable sales, expenses and quotations from earlier builds."
 }
