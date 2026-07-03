@@ -1,6 +1,6 @@
 {
-  "version": "0.1.17",
-  "build": 31,
+  "version": "0.1.18",
+  "build": 32,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "New (optional): keep syncing after you close the app. Sync already survives a locked screen; turn on 'Keep syncing after closing the app' (on the connect-a-computer screen) to keep the desktop synced even after you swipe Pockt away from recent apps. Off by default — nothing changes unless you enable it. Some phone brands may also need you to allow Pockt to auto-start / run in the background."
+  "notes": "Reliability fix for background sync: a sale recorded on the desktop can no longer be lost or duplicated when the phone reconnects — every sync change is now recorded together with its money entry in one step. Safe to use 'Keep syncing after closing the app'. Normal use is unaffected."
 }
