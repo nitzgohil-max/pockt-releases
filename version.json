@@ -1,6 +1,6 @@
 {
-  "version": "0.1.18",
-  "build": 32,
+  "version": "0.1.19",
+  "build": 33,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Reliability fix for background sync: a sale recorded on the desktop can no longer be lost or duplicated when the phone reconnects — every sync change is now recorded together with its money entry in one step. Safe to use 'Keep syncing after closing the app'. Normal use is unaffected."
+  "notes": "Sync reliability restored. Desktop edits sync to the phone dependably again, and a change that can't apply right away now retries instead of being dropped — nothing gets lost. Locked-screen sync still works. (Syncing after fully swiping the app away is temporarily off while it's reworked.)"
 }
