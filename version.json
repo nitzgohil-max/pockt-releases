@@ -1,6 +1,6 @@
 {
-  "version": "0.1.20",
-  "build": 34,
+  "version": "0.1.21",
+  "build": 35,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Desktop sync now covers everything. Stock audits, cash transfers, Quick Log counter sales & purchases, transaction edits, quotation & EFD edits/deletes, cash-account setup and party deletes all sync to the phone now — they used to silently vanish. Each change is applied exactly once (never lost, never doubled). Update the desktop app too."
+  "notes": "New: Photo Studio (Inventory → More → Photo Studio). Drop many product photos into one pool, then tap a photo + a product to assign it — the product leaves the list as you go, so you can photo your whole catalog fast. One photo per product for now; multi-photo, cover pick & a trash bin come next. (Rebuild the desktop app too.)"
 }
