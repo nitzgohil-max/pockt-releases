@@ -1,6 +1,6 @@
 {
-  "version": "0.1.22",
-  "build": 36,
+  "version": "0.1.23",
+  "build": 37,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Photo Studio now has a trash bin — trash or long-press a photo in the pool to remove it (mistake? tap Undo), and open the trash bin (top-right) to Restore a photo or Delete it for good / Empty trash. (Rebuild the desktop app too.)"
+  "notes": "Photo Studio P3: multiple photos per product with a chosen cover and drag-to-reorder. Manage a product's gallery from Photo Studio or the product screen."
 }
