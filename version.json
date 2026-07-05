@@ -1,6 +1,6 @@
 {
-  "version": "0.1.23",
-  "build": 37,
+  "version": "0.1.24",
+  "build": 38,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Photo Studio P3: multiple photos per product with a chosen cover and drag-to-reorder. Manage a product's gallery from Photo Studio or the product screen."
+  "notes": "Reliability fix: screens no longer hang on a blank loading spinner at startup. Background sync now starts after the screens draw, the database waits longer under momentary load, and any screen that fails to load shows a Retry button instead of spinning forever."
 }
