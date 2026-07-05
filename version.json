@@ -1,6 +1,6 @@
 {
-  "version": "0.1.25",
-  "build": 39,
+  "version": "0.1.26",
+  "build": 40,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Photo Studio fixes: importing many photos now shows progress (no more frozen buttons), the 'moved to trash' popup dismisses itself, trashed photos auto-clear after 7 days, and a duplicate button was removed. Your original phone photos are never touched."
+  "notes": "Photo Studio polish: tap a waiting photo to zoom in and read model numbers; sliding category filters to find products fast; 'add more pics' now offers your pool first; and tick several pool photos at once to assign or trash them together."
 }
