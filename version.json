@@ -1,6 +1,6 @@
 {
-  "version": "0.1.26",
-  "build": 40,
+  "version": "0.1.27",
+  "build": 41,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Photo Studio polish: tap a waiting photo to zoom in and read model numbers; sliding category filters to find products fast; 'add more pics' now offers your pool first; and tick several pool photos at once to assign or trash them together."
+  "notes": "Storefront gallery: products with several photos now show a swipeable photo carousel on your website (pockt.org) — cover first, swipe for more. Single-photo products look exactly as before. Publish from your phone to push the extra photos."
 }
