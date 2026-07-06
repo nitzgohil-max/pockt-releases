@@ -1,6 +1,6 @@
 {
-  "version": "0.1.27",
-  "build": 41,
+  "version": "0.1.28",
+  "build": 42,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Storefront gallery: products with several photos now show a swipeable photo carousel on your website (pockt.org) — cover first, swipe for more. Single-photo products look exactly as before. Publish from your phone to push the extra photos."
+  "notes": "Brand Studio: stamp your logo, a watermark and a contact bar onto product photos — each product keeps its own look, originals are never changed. Republish to put the branded photos on your website. Find it under Inventory → ⋮ → Brand Studio."
 }
