@@ -1,6 +1,6 @@
 {
-  "version": "0.1.30",
-  "build": 44,
+  "version": "0.1.31",
+  "build": 45,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Brand Studio: search or filter by category/catalog to pick exactly which products to brand — 'Apply to all' now works on your filtered set. Fixed: dragging the logo or contact bar no longer gets stuck on the center guide."
+  "notes": "Brand Studio fix: dragging the logo or contact bar works properly — no more sticking on the center guide, no more elements following your finger from anywhere on the photo."
 }
