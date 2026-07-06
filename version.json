@@ -1,6 +1,6 @@
 {
-  "version": "0.1.28",
-  "build": 42,
+  "version": "0.1.29",
+  "build": 43,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Brand Studio: stamp your logo, a watermark and a contact bar onto product photos — each product keeps its own look, originals are never changed. Republish to put the branded photos on your website. Find it under Inventory → ⋮ → Brand Studio."
+  "notes": "Fix: editing a product from the browser or a paired laptop no longer erases that product's carton/pack setup or its link on the phone. Recommended if you use packs with Pockt Web or a laptop."
 }
