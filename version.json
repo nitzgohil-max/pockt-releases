@@ -1,6 +1,6 @@
 {
-  "version": "0.1.29",
-  "build": 43,
+  "version": "0.1.30",
+  "build": 44,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fix: editing a product from the browser or a paired laptop no longer erases that product's carton/pack setup or its link on the phone. Recommended if you use packs with Pockt Web or a laptop."
+  "notes": "Brand Studio: search or filter by category/catalog to pick exactly which products to brand — 'Apply to all' now works on your filtered set. Fixed: dragging the logo or contact bar no longer gets stuck on the center guide."
 }
