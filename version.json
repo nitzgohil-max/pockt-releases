@@ -1,6 +1,6 @@
 {
-  "version": "0.1.33",
-  "build": 47,
+  "version": "0.1.34",
+  "build": 48,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Your website now has a footer plus About and Contact pages. Fill them in from Settings → Storefront → About & contact page, then tap Save & publish now."
+  "notes": "New: Sales Agents (More → Sales Agents). Add agents with photo and ID, assign products by category/catalog/product with exclusions, set commission and minimum quantities. The agent app itself arrives in the next phase."
 }
