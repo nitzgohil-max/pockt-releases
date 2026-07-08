@@ -1,6 +1,6 @@
 {
-  "version": "0.1.35",
-  "build": 49,
+  "version": "0.1.36",
+  "build": 50,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Sales Agents: generate a private link from an agent's profile — they get a branded catalog app with only their assigned products (search, filters, stock, min quantities, photo sharing). Suspend or remove an agent and the link dies instantly. Order sending arrives next."
+  "notes": "Sales Agents: agents add their own clients (name, phones, email, contact, TIN, VRN, address) in their app, and those clients flow into your customer book tagged to the agent. Agents only see their own clients."
 }
