@@ -1,6 +1,6 @@
 {
-  "version": "0.1.31",
-  "build": 45,
+  "version": "0.1.32",
+  "build": 46,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Brand Studio fix: dragging the logo or contact bar works properly — no more sticking on the center guide, no more elements following your finger from anywhere on the photo."
+  "notes": "If a screen ever says 'Couldn't load your data', the card now shows the exact error underneath. Screenshot it and send it — that tells us exactly what to fix."
 }
