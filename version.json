@@ -1,6 +1,6 @@
 {
-  "version": "0.1.32",
-  "build": 46,
+  "version": "0.1.33",
+  "build": 47,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "If a screen ever says 'Couldn't load your data', the card now shows the exact error underneath. Screenshot it and send it — that tells us exactly what to fix."
+  "notes": "Your website now has a footer plus About and Contact pages. Fill them in from Settings → Storefront → About & contact page, then tap Save & publish now."
 }
