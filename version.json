@@ -1,6 +1,6 @@
 {
-  "version": "0.1.43",
-  "build": 57,
+  "version": "0.1.44",
+  "build": 58,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fixes agent profile settings not saving. Commission rate, delivery charges and min quantities now save as soon as you tap out of a field, values aren't lost when you Regenerate the link, and there's a new 'Save agent settings' button with a 'Saved' confirmation."
+  "notes": "Orders inbox: Archive or Delete orders so they don't pile up. Sales agents can now SEND orders — an agent picks a client and taps Send, and it lands in your Orders inbox tagged with their name (at your catalog prices). For now you can view/decline agent orders; accepting-and-reserving stock comes next."
 }
