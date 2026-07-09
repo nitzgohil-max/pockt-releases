@@ -1,6 +1,6 @@
 {
-  "version": "0.1.40",
-  "build": 54,
+  "version": "0.1.41",
+  "build": 55,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Sales agents get their own login app: they sign in at app.pockt.org/agent with their phone number and password and see only their assigned catalog behind their own session — no public link to misplace. First sign-in prompts them to set their own password; they stay signed in until they sign out. Open Pockt once after updating so your agents' catalogs connect to their logins."
+  "notes": "Security hardening (mostly invisible to you). When your app links a sales agent to their catalog, it now proves which shop it is using this phone's own private key — instead of a shared key that was built into every copy of the app. This closes a gap where someone who extracted that shared key could, in theory, have redirected an agent's catalog or the customer details that agent collects. Nothing changes in how you or your agents work — same login, same catalogs. Please open Pockt once after updating and re-publish, so each agent's login reconnects through the new secure path."
 }
