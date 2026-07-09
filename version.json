@@ -1,6 +1,6 @@
 {
-  "version": "0.1.37",
-  "build": 51,
+  "version": "0.1.38",
+  "build": 52,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Sales Agents: minimum quantities no longer get wiped, are grouped in collapsible sections with one-tap group set and pack units (dozen/carton), assigning products avoids duplicates, and agents only get wholesale prices (with a bulk editor for any product missing one)."
+  "notes": "Assigning products to agents is now clean: you pick what's assigned and everything else is excluded automatically — no more confusing 'not category' entries or duplicates, plus a separate 'Remove products' action to drop specific items from an assigned category."
 }
