@@ -1,6 +1,6 @@
 {
-  "version": "0.1.39",
-  "build": 53,
+  "version": "0.1.40",
+  "build": 54,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Sales agent logins: create a login for each agent (phone number = ID), hand them a starter password they change on first sign-in, reset it, switch it off, or sign them out everywhere. Suspending or removing an agent kills their login instantly."
+  "notes": "Sales agents get their own login app: they sign in at app.pockt.org/agent with their phone number and password and see only their assigned catalog behind their own session — no public link to misplace. First sign-in prompts them to set their own password; they stay signed in until they sign out. Open Pockt once after updating so your agents' catalogs connect to their logins."
 }
