@@ -1,6 +1,6 @@
 {
-  "version": "0.1.41",
-  "build": 55,
+  "version": "0.1.42",
+  "build": 56,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Security hardening (mostly invisible to you). When your app links a sales agent to their catalog, it now proves which shop it is using this phone's own private key — instead of a shared key that was built into every copy of the app. This closes a gap where someone who extracted that shared key could, in theory, have redirected an agent's catalog or the customer details that agent collects. Nothing changes in how you or your agents work — same login, same catalogs. Please open Pockt once after updating and re-publish, so each agent's login reconnects through the new secure path."
+  "notes": "Fixes app updates that failed with 'package conflicts'. Adds a 'Send app + login' button in each sales agent's profile — one tap sends the agent their app link and phone-number login on WhatsApp, ready to go."
 }
