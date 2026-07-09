@@ -1,6 +1,6 @@
 {
-  "version": "0.1.38",
-  "build": 52,
+  "version": "0.1.39",
+  "build": 53,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Assigning products to agents is now clean: you pick what's assigned and everything else is excluded automatically — no more confusing 'not category' entries or duplicates, plus a separate 'Remove products' action to drop specific items from an assigned category."
+  "notes": "Sales agent logins: create a login for each agent (phone number = ID), hand them a starter password they change on first sign-in, reset it, switch it off, or sign them out everywhere. Suspending or removing an agent kills their login instantly."
 }
