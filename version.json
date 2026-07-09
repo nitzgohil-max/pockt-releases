@@ -1,6 +1,6 @@
 {
-  "version": "0.1.36",
-  "build": 50,
+  "version": "0.1.37",
+  "build": 51,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Sales Agents: agents add their own clients (name, phones, email, contact, TIN, VRN, address) in their app, and those clients flow into your customer book tagged to the agent. Agents only see their own clients."
+  "notes": "Sales Agents: minimum quantities no longer get wiped, are grouped in collapsible sections with one-tap group set and pack units (dozen/carton), assigning products avoids duplicates, and agents only get wholesale prices (with a bulk editor for any product missing one)."
 }
