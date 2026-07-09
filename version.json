@@ -1,6 +1,6 @@
 {
-  "version": "0.1.42",
-  "build": 56,
+  "version": "0.1.43",
+  "build": 57,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fixes app updates that failed with 'package conflicts'. Adds a 'Send app + login' button in each sales agent's profile — one tap sends the agent their app link and phone-number login on WhatsApp, ready to go."
+  "notes": "Fixes agent profile settings not saving. Commission rate, delivery charges and min quantities now save as soon as you tap out of a field, values aren't lost when you Regenerate the link, and there's a new 'Save agent settings' button with a 'Saved' confirmation."
 }
