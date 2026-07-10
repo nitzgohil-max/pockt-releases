@@ -1,6 +1,6 @@
 {
-  "version": "0.1.44",
-  "build": 58,
+  "version": "0.1.45",
+  "build": 59,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Orders inbox: Archive or Delete orders so they don't pile up. Sales agents can now SEND orders — an agent picks a client and taps Send, and it lands in your Orders inbox tagged with their name (at your catalog prices). For now you can view/decline agent orders; accepting-and-reserving stock comes next."
+  "notes": "Accept & reserve for agent orders: when an agent sends you an order, see what they asked for vs what's actually in stock, and one-tap accept everything or just what's available. Accepting sets that stock aside so it can't be sold twice; declining frees it."
 }
