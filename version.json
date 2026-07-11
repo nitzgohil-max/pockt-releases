@@ -1,6 +1,6 @@
 {
-  "version": "0.1.45",
-  "build": 59,
+  "version": "0.1.46",
+  "build": 60,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Accept & reserve for agent orders: when an agent sends you an order, see what they asked for vs what's actually in stock, and one-tap accept everything or just what's available. Accepting sets that stock aside so it can't be sold twice; declining frees it."
+  "notes": "Cash reconciliation for agent orders: tap 'Complete (cash in)' on a delivered agent order to record the sale — the cash is held in that agent's pocket until they hand it over, which you record in Cash Flow → Agent floats. Completing releases the set-aside stock and can't oversell or record twice."
 }
