@@ -1,6 +1,6 @@
 {
-  "version": "0.1.49",
-  "build": 63,
+  "version": "0.1.50",
+  "build": 64,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Agents see their orders + estimated earnings (Orders tab + Home tile) and can share a delivery note. You see what you owe each agent at a glance (More → Sales Agents). New TIN/VRN settings for VAT-ready notes. Open the app once after updating so catalogs refresh."
+  "notes": "Sales Agent fixes: orders you send as an agent now reliably reach your shop; new 'Publish changes to agent' button (works on phone and desktop) safely pushes your latest products/prices/settings without breaking the agent's app. Agent setup screen reorganised, remove single products from an assigned category, and a search box when choosing who an order is for. Open the app once after updating so agent catalogs refresh."
 }
