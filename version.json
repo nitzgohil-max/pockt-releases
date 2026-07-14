@@ -1,6 +1,6 @@
 {
-  "version": "0.1.48",
-  "build": 62,
+  "version": "0.1.49",
+  "build": 63,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Tidy-up: the old shareable agent link is retired (agents log in instead) — an agent's profile now shows a simple Agent catalog on/off. Use 'Send app + login' to give access."
+  "notes": "Agents see their orders + estimated earnings (Orders tab + Home tile) and can share a delivery note. You see what you owe each agent at a glance (More → Sales Agents). New TIN/VRN settings for VAT-ready notes. Open the app once after updating so catalogs refresh."
 }
