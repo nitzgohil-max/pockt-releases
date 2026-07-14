@@ -1,6 +1,6 @@
 {
-  "version": "0.1.50",
-  "build": 64,
+  "version": "0.1.51",
+  "build": 65,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Sales Agent fixes: orders you send as an agent now reliably reach your shop; new 'Publish changes to agent' button (works on phone and desktop) safely pushes your latest products/prices/settings without breaking the agent's app. Agent setup screen reorganised, remove single products from an assigned category, and a search box when choosing who an order is for. Open the app once after updating so agent catalogs refresh."
+  "notes": "Sales Agent overhaul: agents see 'Owed to you' (running commission) + commission per order; order history no longer vanishes after completion (finished orders sink to the bottom awaiting cash handoff); agents can Edit/Remove pending orders and Cancel accepted ones themselves (stock auto-releases) — completed orders stay locked. Open the app once after updating so agent catalogs refresh."
 }
