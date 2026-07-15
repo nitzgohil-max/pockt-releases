@@ -1,6 +1,6 @@
 {
-  "version": "0.1.51",
-  "build": 65,
+  "version": "0.1.52",
+  "build": 66,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Sales Agent overhaul: agents see 'Owed to you' (running commission) + commission per order; order history no longer vanishes after completion (finished orders sink to the bottom awaiting cash handoff); agents can Edit/Remove pending orders and Cancel accepted ones themselves (stock auto-releases) — completed orders stay locked. Open the app once after updating so agent catalogs refresh."
+  "notes": "Profit-share agents now see commission per order (as an estimate; exact amount confirmed from your books at completion). Revenue-share agents see an exact figure. Open the app once after updating so agent catalogs refresh."
 }
