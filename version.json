@@ -1,6 +1,6 @@
 {
-  "version": "0.1.54",
-  "build": 68,
+  "version": "0.1.55",
+  "build": 69,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Decline with a reason: when you turn down an agent's order you now pick why (out of stock, price, customer issue, duplicate, other) and the agent sees it on their app — no more silent declines."
+  "notes": "Fulfil from everywhere: tick orders in your inbox → ready-made transfer notes, one per storeroom, pulling missing stock into your shop. Reservation-aware, printable, stock only moves when you confirm. Declined orders now show your reason."
 }
