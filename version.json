@@ -1,6 +1,6 @@
 {
-  "version": "0.1.53",
-  "build": 67,
+  "version": "0.1.54",
+  "build": 68,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Agent app upgrades: tap an order to see its items, Reorder past orders, Call/WhatsApp buttons on clients, agents can attach a note to orders (shows in your inbox and approval screens), add-to-cart from photos, and orders taken offline now send themselves when signal returns. Also fixes agent Edit-order opening empty."
+  "notes": "Decline with a reason: when you turn down an agent's order you now pick why (out of stock, price, customer issue, duplicate, other) and the agent sees it on their app — no more silent declines."
 }
