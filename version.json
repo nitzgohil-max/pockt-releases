@@ -1,6 +1,6 @@
 {
-  "version": "0.1.55",
-  "build": 69,
+  "version": "0.1.56",
+  "build": 70,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fulfil from everywhere: tick orders in your inbox → ready-made transfer notes, one per storeroom, pulling missing stock into your shop. Reservation-aware, printable, stock only moves when you confirm. Declined orders now show your reason."
+  "notes": "Run your shop from an iPad (or any big screen): a fast till with a tap-to-sell price list, cash / M-Pesa / credit, quick log, delivery log, and an offline queue that lands when your phone is back. Loose goods sell by amount (type the shillings, it works out the kg). Also fixes: web M-Pesa and bank sales now book to the right account."
 }
