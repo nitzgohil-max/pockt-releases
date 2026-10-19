@@ -1,6 +1,6 @@
 {
-  "version": "0.1.57",
-  "build": 71,
+  "version": "0.1.58",
+  "build": 72,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Run more than one shop from the same Pockt. When you open the app it now asks which shop you want — each shop keeps its own stock, inventory, sales, money and web/iPad link completely separate, so your main shop and a second counter never mix. Your current shop becomes Store 1 automatically; nothing is moved or lost. Add a shop any time, and switch shops from the menu."
+  "notes": "Easier to find 'Add a shop': open the menu (tap your initials, top-left) and tap 'Add / switch shop' to add your second shop or switch between shops. Before, that screen only showed once you already had two shops."
 }
