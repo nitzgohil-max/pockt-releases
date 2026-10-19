@@ -1,6 +1,6 @@
 {
-  "version": "0.1.58",
-  "build": 72,
+  "version": "0.1.59",
+  "build": 73,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Easier to find 'Add a shop': open the menu (tap your initials, top-left) and tap 'Add / switch shop' to add your second shop or switch between shops. Before, that screen only showed once you already had two shops."
+  "notes": "Desktop can now switch shops: on the desktop pairing screen tap 'Connect a different shop' and enter that shop's code (Pockt Web inside that shop on your phone). The desktop shows one shop at a time and now shows which one. Before, a paired desktop was stuck on the first shop."
 }
