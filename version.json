@@ -1,6 +1,6 @@
 {
-  "version": "0.1.59",
-  "build": 73,
+  "version": "0.1.60",
+  "build": 74,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Desktop can now switch shops: on the desktop pairing screen tap 'Connect a different shop' and enter that shop's code (Pockt Web inside that shop on your phone). The desktop shows one shop at a time and now shows which one. Before, a paired desktop was stuck on the first shop."
+  "notes": "Fixes your shop sometimes not loading on open (needing a force-close). The app now retries on its own, and the Retry button actually reopens your data if needed — no closing the whole app. Removed a background connection that could lock the main shop's file."
 }
