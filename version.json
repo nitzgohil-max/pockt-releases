@@ -1,6 +1,6 @@
 {
-  "version": "0.1.60",
-  "build": 74,
+  "version": "0.1.61",
+  "build": 75,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Fixes your shop sometimes not loading on open (needing a force-close). The app now retries on its own, and the Retry button actually reopens your data if needed — no closing the whole app. Removed a background connection that could lock the main shop's file."
+  "notes": "Price-list shops can now sell at zero stock — add any item and quantity even when stock shows nil. Only Price-list shops are affected; normal stock shops are unchanged."
 }
