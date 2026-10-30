@@ -1,6 +1,6 @@
 {
-  "version": "0.1.62",
-  "build": 76,
+  "version": "0.1.63",
+  "build": 77,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Transactions: share any sale as an itemised invoice PDF. Price-list shops: a new Clear product list action to re-import a fresh catalog (sales history kept)."
+  "notes": "iPad till (counter) sales now record itemised lines — share any sale, till or phone, as an invoice-style PDF from the Transactions screen."
 }
