@@ -1,6 +1,6 @@
 {
-  "version": "0.1.61",
-  "build": 75,
+  "version": "0.1.62",
+  "build": 76,
   "url": "https://github.com/nitzgohil-max/pockt-releases/releases/latest/download/pockt.apk",
-  "notes": "Price-list shops can now sell at zero stock — add any item and quantity even when stock shows nil. Only Price-list shops are affected; normal stock shops are unchanged."
+  "notes": "Transactions: share any sale as an itemised invoice PDF. Price-list shops: a new Clear product list action to re-import a fresh catalog (sales history kept)."
 }
